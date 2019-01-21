@@ -68,13 +68,13 @@ higher fidelity and some are lower; some were drawn by hand and some were drawn
 using design tools like Balsamiq; however, **any** of the following would be
 considered acceptable wireframes for a project.
 
-![Compact](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/compact.png)
+![Compact](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/compact.png?raw=true)
 
-![MBTA](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/mbta.png)
+![MBTA](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/mbta.png?raw=true)
 
-![CrossHatch](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/crosshatch.jpg)
+![CrossHatch](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/crosshatch.jpg?raw=true)
 
-![Timeline](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/timeline.png)
+![Timeline](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/timeline.png?raw=true)
 
 ![Ecommerce](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/ecommerce-wireframe.svg)
 
