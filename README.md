@@ -78,9 +78,6 @@ considered acceptable wireframes for a project.
 
 ![Ecommerce](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/ecommerce-wireframe.svg)
 
-> The last one is the kind of wireframe you'd typically see from a designer;
-that is not our expectation from you in WDI.
-
 In general, since hand-drawn wireframes are easier to iterate on and maintain
 than computer-drawn ones, we recommend that in the scope of this course, you do
 all your wireframing by hand.
