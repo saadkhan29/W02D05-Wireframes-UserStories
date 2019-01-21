@@ -68,15 +68,15 @@ higher fidelity and some are lower; some were drawn by hand and some were drawn
 using design tools like Balsamiq; however, **any** of the following would be
 considered acceptable wireframes for a project.
 
-![Compact](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/compact.png?raw=true)
+![Compact](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/compact.png)
 
-![MBTA](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/mbta.png?raw=true)
+![MBTA](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/mbta.png)
 
-![CrossHatch](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/crosshatch.jpg?raw=true)
+![CrossHatch](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/crosshatch.jpg)
 
-![Timeline](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/timeline.png?raw=true)
+![Timeline](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/timeline.png)
 
-![Art City](https://docs.google.com/viewer?url=https://github.com/breduffy/ArtCity_app/blob/master/z_Mockups/Project%202_Art_City_Mockups.pdf)
+![Ecommerce](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/ecommerce-wireframe.svg)
 
 > The last one is the kind of wireframe you'd typically see from a designer;
 that is not our expectation from you in WDI.
