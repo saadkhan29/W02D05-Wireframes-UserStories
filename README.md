@@ -93,8 +93,6 @@ other feedback on the sketches, specifically pointing out aspects that were more
 clear or less clear.
 
 - [Wikipedia](https://en.wikipedia.org/)
-- [NYtimes.com](http://www.nytimes.com/)
-- [Reddit](https://www.reddit.com/)
 - [Google](https://www.google.com/)
 - [ESPN.com](http://espn.go.com/)
 - [TripAdvisor](http://www.tripadvisor.com/)
