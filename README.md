@@ -76,7 +76,7 @@ considered acceptable wireframes for a project.
 
 ![Timeline](https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes/blob/master/images/timeline.png?raw=true)
 
-![Art City](https://github.com/breduffy/ArtCity_app/blob/master/z_Mockups/Project%202_Art_City_Mockups.pdf)
+![Art City](https://docs.google.com/viewer?url=https://github.com/breduffy/ArtCity_app/blob/master/z_Mockups/Project%202_Art_City_Mockups.pdf)
 
 > The last one is the kind of wireframe you'd typically see from a designer;
 that is not our expectation from you in WDI.
