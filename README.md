@@ -146,4 +146,4 @@ Create at least 5 user stories with your partner for Instagram, Pinterest or Wha
   for existing sites.
 - [invision](https://www.invisionapp.com/), a workflow play form with
   high-fidelity prototyping tools.
-  -[Mockplus] (https://www.mockplus.com/download/mockplus-rp), Interaction design has never been so easy.
+-[Mockplus] (https://www.mockplus.com/download/mockplus-rp), Interaction design has never been so easy.
