@@ -1,10 +1,18 @@
 # Wireframes and User Stories
 
-## What Is a Wireframe?
+## Wireframing
+A wireframe is a two-dimensional illustration of a page’s interface that specifically focuses on space allocation and prioritization of content, functionalities available, and intended behaviors. For these reasons, wireframes typically do not include any styling, color, or graphics. Wireframes also help establish relationships between a website’s various templates.
 
-A **wireframe** is an image that sketches out the layout of major pieces of
-content within a page, without all of the fully-rendered detail that might be
-present in an illustration.
+The Value of Wireframes
+Wireframes serve multiple purposes by helping to: <br>
+
+<ul>
+<li> Connect the site’s information architecture to its visual design by showing paths between pages</li>
+<li> Clarify consistent ways for displaying particular types of information on the user interface</li>
+<li> Determine intended functionality in the interface</li>
+<li> Prioritize content through the determination of how much space to allocate to a given item and where that item is located</li>
+</ul>
+
 
 ![Example Wireframe](https://i.imgur.com/VYZBkqb.png)
 
